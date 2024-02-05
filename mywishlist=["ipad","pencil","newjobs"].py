@@ -1,1 +1,1 @@
-mywishlist=["ipad","pencil","newjobs"]
+mywishlist=["ipad","pencil","newjobs","another highperformance PC"]
